@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BearerTokenApp", "BearerTokenApp.csproj", "{F82748D4-E9EC-435D-8847-06A03E56B174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F82748D4-E9EC-435D-8847-06A03E56B174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F82748D4-E9EC-435D-8847-06A03E56B174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F82748D4-E9EC-435D-8847-06A03E56B174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F82748D4-E9EC-435D-8847-06A03E56B174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72833FCD-001F-47EC-8BB9-2E07AD99344A}
+	EndGlobalSection
+EndGlobal
